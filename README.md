@@ -1,4 +1,4 @@
-## 🎯 Enchantments Lottery Analysis (2021–2022)
+### 🎯 Enchantments Lottery Analysis (2021–2022)
 
 This Tableau dashboard analyzes over **73,000 unique applications** submitted to the **Enchantment Area Wilderness Lottery** between 2021 and 2022. The lottery determines backpacking access to one of Washington State’s most scenic and highly regulated trail systems.
 
