@@ -20,8 +20,3 @@ This Tableau dashboard analyzes over **73,000 unique applications** submitted to
 * Identifies which zones are most competitive
 * Helps prospective hikers understand demand trends and plan strategically
 
-This dashboard is built in Tableau and powered by real application data published by the U.S. Forest Service.
-
----
-
-Would you like me to generate a matching `README.md` section or help you create a banner image or layout for your GitHub page too?
